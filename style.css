@@ -83,8 +83,6 @@ min-height:100vh;
 
 padding:30px 22px;
 
-display:flex;
-
 flex-direction:column;
 
 justify-content:space-between;
@@ -347,29 +345,7 @@ transform:translateY(0);
 }
 
 }
-/* PAGE 2 */
 
-.page{
-
-display:none;
-
-height:100%;
-
-padding:40px 28px;
-
-flex-direction:column;
-
-justify-content:space-between;
-
-animation:fade .5s;
-
-}
-
-.page.active{
-
-display:flex;
-
-}
 /* PAGE 3 */
 
 #page3{
